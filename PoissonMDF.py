@@ -2,8 +2,8 @@ from examples.cfd import plot_field, init_hat
 import numpy as np
 
 # Some variable declarations
-nx = 50000
-ny = 50000
+nx = 50
+ny = 50
 nt  = 100
 xmin = 0.
 xmax = 2.
